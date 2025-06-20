@@ -20,7 +20,8 @@ Welcome to **Sortify**, a beautifully crafted and interactive sorting algorithm 
 
 ## 🚀 Live Demo
 
-🌐 [Check out the website here](https)
+🌐 [Check out the website here](https://sortify-a-sorting-visualizer.vercel.app/)
+
 
 ---
 
@@ -35,6 +36,9 @@ Welcome to **Sortify**, a beautifully crafted and interactive sorting algorithm 
   <img src="https://github.com/user-attachments/assets/ae4ebee8-e3dc-4dff-a74c-82cf35d3eb04" width="600" alt="Visualization 3">
 
 </div>
+
+## 🚀 Live Link
+<img src ="https://github.com/user-attachments/assets/18c3f323-c619-4db1-9c77-8951559ca797" width="600" alt="Visualization"> <br/><br/>
 
 
 ---
